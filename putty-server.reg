@@ -123,7 +123,7 @@ Windows Registry Editor Version 5.00
 "DisableArabicShaping"=dword:00000000
 "DisableBidi"=dword:00000000
 "WinNameAlways"=dword:00000001
-"WinTitle"="hs@hs-vb: /hisilicon/project_dm36x/merlin"
+"WinTitle"="hs@hs-vb: /hisilicon/project_dm36x/merlin/main_lib"
 "TermWidth"=dword:00000078
 "TermHeight"=dword:00000028
 "Font"="D2Coding"
@@ -156,14 +156,14 @@ Windows Registry Editor Version 5.00
 "Colour10"="0,187,0"
 "Colour11"="85,255,85"
 "Colour12"="187,187,0"
-"Colour13"="255,255,85"
+"Colour13"="196,64,0"
 "Colour14"="0,128,255"
 "Colour15"="140,140,255"
 "Colour16"="187,0,187"
 "Colour17"="255,85,255"
 "Colour18"="0,187,187"
 "Colour19"="85,255,255"
-"Colour20"="128,0,0"
+"Colour20"="255,36,36"
 "Colour21"="239,239,239"
 "RawCNP"=dword:00000000
 "PasteRTF"=dword:00000000
